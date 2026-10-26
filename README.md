@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rushikesh Gaikwad 👋</h1>
-<h3 align="center"> AI Engineer | Data Science Enthusiast | Savitribai Phule Pune University |  </h3>
+<h3 align="center"> AI Engineer | Data Science  | Savitribai Phule Pune University |  </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+%7C+Python+Developer;Machine+Learning+%26+Deep+Learning+Enthusiast;Full+Stack+Developer+%7C+OpenCV+%7C+TensorFlow;Always+Learning+%7C+Always+Building&font=Fira%20Code&center=true&color=00F7FF&width=700&height=50"/>
+<img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+%7C+Python;Machine+Learning+%26+Deep+Learning;Full+Stack+Developer+%7C+OpenCV+%7C+TensorFlow;Always+Learning+%7C+Always+Building&font=Fira%20Code&center=true&color=00F7FF&width=700&height=50"/>
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
 
@@ -9,7 +9,7 @@
 
 🎓 BE Computer Engineering at **Savitribai Phule Pune University (2026)**
 
-🤖 AI Engineer & Data Science Enthusiast
+🤖 AI Engineer & Data Science 
 
 🐍 Passionate about Python Development, Machine Learning & Computer Vision
 
